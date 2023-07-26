@@ -27,6 +27,10 @@
   height: 45%;
 }
 
+.App-body #email, .App-body #password {
+  margin-right: 1em;
+}
+
 .App-footer {
   padding: var(--padding);
   text-align: center;
