@@ -2,7 +2,7 @@
 
 ## Projects
 
-| PR.NO |	PROJECT	                                            | DESCRIPTION |
+| PR.NO | PROJECT                                             | DESCRIPTION |
 | ----- | --------------------------------------------------- | ----------- |
 | 0x00  | [Webpack](./0x00-Webpack)                           |             |
 | 0x01  | [react intro](./0x01-react_intro)                   |             |
