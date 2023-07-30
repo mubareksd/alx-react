@@ -18,11 +18,11 @@ function App() {
         <input type="password" name="password" id="password" />
         <button>OK</button>
       </div>
-      <footer className="App-footer">
+      <div className="App-footer">
         <p>
           Copyright {getFullYear()} - {getFooterCopy(true)}
         </p>
-      </footer>
+      </div>
     </div>
   );
 }
