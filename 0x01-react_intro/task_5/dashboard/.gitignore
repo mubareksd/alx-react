@@ -1,5 +1,2 @@
 node_modules
-dist/bundle.js
 dist/*.LICENSE.txt
-dist/*.jpg
-dist/*.png
